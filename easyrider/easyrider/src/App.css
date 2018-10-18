@@ -1,0 +1,108 @@
+.log {
+  background-image: url('https://media.giphy.com/media/3oKIPbEWy0IpxoUNP2/giphy.gif');
+  background-size: cover;
+
+}
+
+.register{
+background: darkgray;
+}
+.Login {
+ margin-top: 30px;
+}
+
+.head{
+ margin-left: 560px;
+ font-family: ‘Permanent Marker’, cursive;
+ color: gold;
+}
+
+h1 {
+ font-family: ‘Permanent Marker’, cursive;
+ color: gold ;
+}
+
+h5{
+ margin-left: 500px;
+ color: gold;
+ margin-top: 100px;
+
+}
+
+button{
+ margin-left: 620px;
+}
+
+.registration{
+ margin-left: 200px;
+
+
+}
+
+.signup{
+ margin-right: 50px;
+ background-color: darkgray;
+ color: gold;
+}
+
+label{
+ color:  gold;
+ margin-left: 300px;
+
+}
+
+.u-full-width{
+ width: 800px;
+ margin-left: 300px;
+}
+
+.button-primary{
+ margin-left: 50px;
+}
+
+p{
+ color: orange;
+ margin-left: 200px ;
+}
+
+.center-align{
+ margin-left: 90px;
+}
+
+.cancelbtn {
+ margin-right: 100px;
+ background-color: gold;
+}
+
+.signupbtn {
+background-color: gold;
+}
+
+b {
+ margin-right: 10px;
+}
+
+.signin{
+ background-color: lightgray;
+}
+
+.email{
+ width: 300px;
+ margin-left: 200px;
+}
+
+.password{
+ margin-left: 300px;
+}
+
+.enter {
+ width: 300px;
+ margin-left: 200px;
+}
+
+.pass{
+ width: 300px;
+ margin-left: 200px;
+}
+
+
